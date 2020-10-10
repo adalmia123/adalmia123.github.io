@@ -10,21 +10,13 @@ Piazza is marketed as a tool "designed to connect students, TAs, and professors 
 ## Key Problems with Piazza
 
 As we mentioned, the main thing to keep in mind is efficiency as both students and professors want to make sure they get their answers sooner than later. However, as seasoned users of Piazza, its clear that the current platform is quite disorganized and to this day we are still discovering new features with Piazza. We will explore this more in our Contextual Inquiry, however here are some of the general problems we will want to address:
-- No feedback after performing certain actions - did it actually go through?
-- Piazza’s professional network often gets in the way of trying to see things for your class
-- Bad navigation/layout
-- After clicking on a course you are just bombarded with the threads and no info
-- Course info is on a completely separate page under “Resources” - not descriptive??  - Jae only
-
-- Classes put things in different places, like the syllabus (Eugene, Jae)
-- Class subgroups - Eugene 
-
-- Changing notification settings Too many clicks to get to basic things - such as course info or your settings (Eugene, Jae)
-
-
-Adding features
-Ability to pin and save threads (Eugene, Jae)
-
+- No feedback after performing certain actions such as posting a response- did it actually go through?
+- It takes too many clicks to get to basic things - such as course info or your settings (to the point you make have to google how)
+- Piazza doesn't have specific places to put content so classes put things in different places, like the syllabus.
+- After clicking on a course you are just bombarded with the threads and no info.
+- Piazza has class subgroups but many classs don't use them as they are not very intuitive to use.
+- Piazza’s professional network often gets in the way of trying to see things for your class.
+- Students can not pin and save threads making it harder to find posts again.
 
 # Contextual Inquiry 
 
