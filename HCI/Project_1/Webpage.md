@@ -2,7 +2,7 @@
 
 ## Overiew of Piazza
 
-Piazza is marketed as a tool "designed to connect students, TAs, and professors so every student can get the help they need when they need it". It is a website that provides a "wiki-style Q&A" where students can post questions and get answers from professors or even other students about class content and homework clarifications. In the era of remote learning, its become a one-stop hub for all question regarding a class allowing everyone to see common questions. However, currently Piazza is quite disorganized and contains many great features that are underused das they are hard to find. In this project, we explore hopw we can improve the user experience for Piazza.
+Piazza is marketed as a tool "designed to connect students, TAs, and professors so every student can get the help they need when they need it". It is a website that provides a "wiki-style Q&A" where students can post questions and get answers from professors or even other students about class content and homework clarifications. In the era of remote learning, its become a one-stop hub for all question regarding a class allowing everyone to see common questions. However, currently Piazza is quite disorganized and contains many great features that are underused as they are hard to find. In this project, we explore hopw we can improve the user experience for Piazza.
 
 ## Target Users
 
