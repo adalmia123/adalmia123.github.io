@@ -1,3 +1,49 @@
+# Design Focus and Problem Space
+
+## Overiew of Piazza
+
+
+## Target Users
+
+
+## Key Problems with Piazza
+
+# Contextual Inquiry 
+
+## User 1: Course Assistant
+
+
+### Task 1: Find the Course Syllabus
+
+### Task 2: Turn off emails in the  Notifications settings
+
+### Task 3: Find the Office Hours of someone in the teaching staff
+
+### Task 4: Make 5 Piazza groups 
+
+
+
+## User 2: Student
+
+
+### Task 1: Find the Course Syllabus
+
+### Task 2: Turn off emails in the  Notifications settings
+
+### Task 3: Find the office hours of someone in the teaching staff
+
+### Task 4: Join a group and find a post from it
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/adalmia123/adalmia123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
