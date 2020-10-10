@@ -50,9 +50,9 @@ As we mentioned, the main thing to keep in mind is efficiency as both students a
 
 ## Flow Model
 
-
 ## Sequential Model
 
+# Ideation 
 
 # Prototype 
 
