@@ -8,7 +8,11 @@
 
 ## Key Problems with Piazza
 
+
+
 # Contextual Inquiry 
+
+
 
 ## User 1: Course Assistant
 
@@ -33,6 +37,22 @@
 ### Task 3: Find the office hours of someone in the teaching staff
 
 ### Task 4: Join a group and find a post from it
+
+
+
+## Flow Model
+
+
+## Sequential Model
+
+
+# Prototype 
+
+
+# Evaluation
+
+
+
 
 
 
