@@ -20,20 +20,28 @@ As we mentioned, the main thing to keep in mind is efficiency as both students a
 
 # Contextual Inquiry 
 
-
+To gather information on the challenges users faced while using Piazza, we performed Contextual Inquiry by having two different users perform some given tasks on the site. We will analyze the actions the users took to complete the tasks to see what ways we could improve Piazza.
 
 ## User 1: Course Assistant
 
 
 ### Task 1: Find the Course Syllabus
 
+<iframe width="957" height="448" src="https://livejohnshopkins-my.sharepoint.com/personal/aadon1_jh_edu/Documents/Semester%207/Intro%20to%20Human-Computer%20Interaction/Projects/P1/Contextual%20Inquiry/User%201%20Task%201.mp4?App=OneDriveWebVideo" frameborder="0" allowfullscreen=""></iframe>
+
+The subject was asked to find the course's syllabus. Using the tabs at the top, the subject first navigated to a page called "Resources". From here the subject saw that there was a large button at the top that said "Syllabus", which he clicked to access the syllabus. The subject said that if this button was not there, he would scroll down the resources page to see if the syllabus would have been posted elsewhere.
+
 ### Task 2: Turn off emails in the  Notifications settings
+
+The next task was to turn off email notifications for the course. The subject first clicked on the tab called "Manage Class" at the top, but he realized that this took him to a page that contained instructor settings for the course, and figured that this would not be where he could turn off his own email notifications. Then, the subject clicked on his name in the top right corner to go to his profile, but this took him to his profile for Piazza's career website. From there, he clicked on a settings icon in the top right corner, but since he was on the Piazza careers page, it took him to settings for his career profile. The subject realized that this would not be where settings related for a course would be. The subject tried to get back to normal Piazza by clicking on the logo in the top left, but this only took him to Piazza's career homepage. After a bit, the subject realized that clicking on his profile had taken him to a new tab for the careers site, so he went back to course Piazza page by clicking on the other tab in the browser. There, the subject clicked on the gear icon in the corner, showing him an option called "Account/Email settings" that he clicked on. He scrolled down to find the course, and edited the settings to not receive any emails and saved.
 
 ### Task 3: Find the Office Hours of someone in the teaching staff
 
+For this task, the subject was asked to find the office hours of someone on the teaching staff. From his settings page, the subject clicked on the course dropdown at the top and then clicked on the course itself, but the page did not change. The subject then tried clicking on the "Resources" tab, taking him to the resources page. Here, he clicked on a tab called "Staff", where he found the office hours for the teaching staff. 
+
 ### Task 4: Make 5 Piazza groups 
 
-
+The subject was tasked with creating five student groups within the piazza course, each named "Project 1", "Project 2", ... and so on. The subject clicked on the "Manage Class" tab at the top. On the page, he scrolled down a little before noticing another tab at the top that said "Create Groups". The subject clicked on the tab and was taken to the part of the page where he could manage the class groups. The subject clicked on the "Manually Create Groups" button, and two new fields appeared. The first was entitled "Create section named with same prefix" and the second was entitled "Create custom group names". The subject stared at the two options for a bit, and then clicked on on the "Create section named with same prefix" field. Here he typed in "Project", used the dropdown to select 5, and clicked the "Add" button. The new groups appeared in the list of groups for the class.
 
 ## User 2: Student
 
