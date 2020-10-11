@@ -27,8 +27,6 @@ To gather information on the challenges users faced while using Piazza, we perfo
 
 ### Task 1: Find the Course Syllabus
 
-<iframe width="957" height="448" src="https://livejohnshopkins-my.sharepoint.com/personal/aadon1_jh_edu/Documents/Semester%207/Intro%20to%20Human-Computer%20Interaction/Projects/P1/Contextual%20Inquiry/User%201%20Task%201.mp4?App=OneDriveWebVideo" frameborder="0" allowfullscreen=""></iframe>
-
 The subject was asked to find the course's syllabus. Using the tabs at the top, the subject first navigated to a page called "Resources". From here the subject saw that there was a large button at the top that said "Syllabus", which he clicked to access the syllabus. The subject said that if this button was not there, he would scroll down the resources page to see if the syllabus would have been posted elsewhere.
 
 ### Task 2: Turn off emails in the  Notifications settings
