@@ -128,8 +128,20 @@ For this task, the subject was asked to find the office hours of someone on the 
 The final task was for the subject to join one of the student groups in the course. From the resources page, the subject was able to immediately notice a "Groups" tab which took him to a list of groups. The subject was told to join "Group 2". Then, the subject was asked to try and find a post within this group. The subject clicked on the "Q & A" tab at the top and then started scrolling through the posts. He found one that was marked with a "Group 2" label, and clicked on it. The subject also noted that on the post, he could click on the "Group 2" label to find more posts in the group.
 
 ## Flow Model
+
 ![Flow Model](Flow_Model.png)
+
 ## Sequential Model
+
+### Task 1
+
+![User 2 Task 1](sequential_models/User_2_Task_1.png)
+
+### Task 2
+
+![User 1 Task 2](sequential_models/User_1_Task_2.png)
+
+![User 2 Task 2](sequential_models/User_2_Task_2.png)
 
 # Ideation
 
