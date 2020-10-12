@@ -127,7 +127,15 @@ The final task was for the subject to join one of the student groups in the cour
 
 # Ideation
 
-From this, we learned that Piazza sucks lmao
+Performing contextual inquiry with two different users allowed us to discover some flaws in Piazza's user interface. These flaws mainly had to do with Piazza's layout, organization, and navigation.
+
+First, Piazza's buttons and menu items are not clear enough. During contextual inquiry, there were multiple times where the subjects clicked on the incorrect button or option because it sounded like the right choice. For example, the first subject clicked on the "Manage Class" tab, believing it would contain his personal settings for the class, but instead it was the course-wide settings. This subject also clicked on his profile to try and find these settings, but it instead took him to his profile for a separate part of Piazza, and he had trouble getting back.
+
+Some crucial aspects of Piazza are not emphasized as much as they should be. The navigation bar at the top is tiny when compared to the rest of the site. During contextual inquiry, when giving a task, our subjects would first look around the big, main Piazza page below the nav bar, before noticing that all the options are up top. Since this is where most of the options and buttons are, it should be made bigger so that users spend less time trying to find it. Additionally, since our first subject got completely side-tracked in one task by Piazza's career site, we believe it should be completely separated from the Piazza courses site to avoid confusion.
+
+The Resources page is where much of the important information pertaining to a course is located, but it is hidden behind a small tab at the top. Although Piazza, is mainly used a forum to supplement course's already existing pages, due to remote learning, students are spending more time on Piazza than before. The Resources page should be upgraded to have a bigger role on Piazza. The sub-tabs on the Resources page, "Course Information", "Staff", "Resources", and "Groups", should be more obvious to students. Our second subject chose to look at the syllabus rather than the "Staff" tab to find the professor's office hours, but had he noticed the "Staff" tab, he would have been able to stay within Piazza and the experience would be more streamlined.
+
+Overall, in its current state, Piazza's layout is unclear and unintuitive.
 
 # Prototype
 
