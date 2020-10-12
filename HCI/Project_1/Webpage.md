@@ -6,6 +6,12 @@ Piazza is marketed as a tool "designed to connect students, TAs, and professors 
 
 ## Target Users
 
+Professor and CAs
+The professors and course or teaching assistant for the specified class are able to answer students’ questions on the Piazza forum. Professors and CA’s should be able to post information about their office hours and view information about the course easily for their own knowledge and so that they can answer any questions related to the class. In terms of short term goals, they should be able to answer students’ questions quickly and efficiently. In the long term, their goals are to ensure that everyone in the class gets the help they need.
+
+Students
+Students on Piazza are able to post questions to the entire class or privately to the instructors. They can also respond to others’ posts. In the short term, students aim to post their questions and obtain answers. In the long term, students use Piazza to have discussions with their fellow classmates and instructors. They would also use it to have easy access to course information, like the syllabus and office hour schedules.
+
 ## Key Problems with Piazza
 
 As we mentioned, the main thing to keep in mind is efficiency as both students and professors want to make sure they get their answers sooner rather than later. However, as seasoned users of Piazza, its clear that the current platform is quite disorganized and to this day we are still discovering new features with Piazza. We will explore this more in our Contextual Inquiry, however here are some of the general problems we will want to address:
