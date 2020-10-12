@@ -32,19 +32,44 @@ To gather information on the challenges users faced while using Piazza, we perfo
   height="448"
   src="https://drive.google.com/file/d/1ZwuSBlk0rzo8uJ_2dTTA0rYE7UQNryr_/preview"
   frameborder="0"
-  allowfullscreen=""></iframe>
+  allowfullscreen=""
+></iframe>
 
 The subject was asked to find the course's syllabus. Using the tabs at the top, the subject first navigated to a page called "Resources". From here the subject saw that there was a large button at the top that said "Syllabus", which he clicked to access the syllabus. The subject said that if this button was not there, he would scroll down the resources page to see if the syllabus would have been posted elsewhere.
 
 ### Task 2: Turn off emails in the  Notifications settings
 
+<iframe
+  width="957"
+  height="448"
+  src="https://drive.google.com/file/d/1ZPCBLPK_j3z93pEIm356wmR90ORmFRS2/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
+
 The next task was to turn off email notifications for the course. The subject first clicked on the tab called "Manage Class" at the top, but he realized that this took him to a page that contained instructor settings for the course, and figured that this would not be where he could turn off his own email notifications. Then, the subject clicked on his name in the top right corner to go to his profile, but this took him to his profile for Piazza's career website. From there, he clicked on a settings icon in the top right corner, but since he was on the Piazza careers page, it took him to settings for his career profile. The subject realized that this would not be where settings related for a course would be. The subject tried to get back to normal Piazza by clicking on the logo in the top left, but this only took him to Piazza's career homepage. After a bit, the subject realized that clicking on his profile had taken him to a new tab for the careers site, so he went back to course Piazza page by clicking on the other tab in the browser. There, the subject clicked on the gear icon in the corner, showing him an option called "Account/Email settings" that he clicked on. He scrolled down to find the course, and edited the settings to not receive any emails and saved.
 
 ### Task 3: Find the Office Hours of someone in the teaching staff
 
+<iframe
+  width="957"
+  height="448"
+  src="https://drive.google.com/file/d/1kn_4Qxq49DBsVIcg6RJMea9dTboOyyhF/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
+
 For this task, the subject was asked to find the office hours of someone on the teaching staff. From his settings page, the subject clicked on the course dropdown at the top and then clicked on the course itself, but the page did not change. The subject then tried clicking on the "Resources" tab, taking him to the resources page. Here, he clicked on a tab called "Staff", where he found the office hours for the teaching staff. 
 
-### Task 4: Make 5 Piazza groups 
+### Task 4: Make 5 Piazza groups
+
+<iframe
+  width="957"
+  height="448"
+  src="https://drive.google.com/file/d/18XpRl9Inwx1O-u_o6Q2XpqmYzv2fbVkw/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
 
 The subject was tasked with creating five student groups within the piazza course, each named "Project 1", "Project 2", ... and so on. The subject clicked on the "Manage Class" tab at the top. On the page, he scrolled down a little before noticing another tab at the top that said "Create Groups". The subject clicked on the tab and was taken to the part of the page where he could manage the class groups. The subject clicked on the "Manually Create Groups" button, and two new fields appeared. The first was entitled "Create section named with same prefix" and the second was entitled "Create custom group names". The subject stared at the two options for a bit, and then clicked on on the "Create section named with same prefix" field. Here he typed in "Project", used the dropdown to select 5, and clicked the "Add" button. The new groups appeared in the list of groups for the class.
 
@@ -53,13 +78,51 @@ The subject was tasked with creating five student groups within the piazza cours
 
 ### Task 1: Find the Course Syllabus
 
+<iframe
+  width="957"
+  height="514"
+  src="https://drive.google.com/file/d/1hd2H9uini9YCxi7ST_jQJNjT_5P1-lEJ/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
+
+Notes
+
 ### Task 2: Turn off emails in the  Notifications settings
+
+<iframe
+  width="957"
+  height="514"
+  src="https://drive.google.com/file/d/1iZaEwjO01gzRd75hSsfdgJaqBCvPTAp4/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
+
+Notes
 
 ### Task 3: Find the office hours of someone in the teaching staff
 
+<iframe
+  width="957"
+  height="514"
+  src="https://drive.google.com/file/d/1zMOYFmUgwQlvQ-As11zCm-Anbfa_2Q8x/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
+ 
+ Notes
+
 ### Task 4: Join a group and find a post from it
 
+<iframe
+  width="957"
+  height="514"
+  src="https://drive.google.com/file/d/1SMjUxxti2cn7hbEoE-iy9zT5zbkw4y2e/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
 
+Notes
 
 ## Flow Model
 
