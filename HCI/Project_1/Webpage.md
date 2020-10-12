@@ -6,7 +6,6 @@ Piazza is marketed as a tool "designed to connect students, TAs, and professors 
 
 ## Target Users
 
-
 ## Key Problems with Piazza
 
 As we mentioned, the main thing to keep in mind is efficiency as both students and professors want to make sure they get their answers sooner rather than later. However, as seasoned users of Piazza, its clear that the current platform is quite disorganized and to this day we are still discovering new features with Piazza. We will explore this more in our Contextual Inquiry, however here are some of the general problems we will want to address:
@@ -23,7 +22,6 @@ As we mentioned, the main thing to keep in mind is efficiency as both students a
 To gather information on the challenges users faced while using Piazza, we performed Contextual Inquiry by having two different users perform some given tasks on the site. We will analyze the actions the users took to complete the tasks to see what ways we could improve Piazza.
 
 ## User 1: Course Assistant
-
 
 ### Task 1: Find the Course Syllabus
 
@@ -75,7 +73,6 @@ The subject was tasked with creating five student groups within the piazza cours
 
 ## User 2: Student
 
-
 ### Task 1: Find the Course Syllabus
 
 <iframe
@@ -86,7 +83,7 @@ The subject was tasked with creating five student groups within the piazza cours
   allowfullscreen=""
 ></iframe>
 
-Notes
+The subject was asked to find the course's syllabus. First, the subject used the course dropdown at the top to select the course again, but the page did not change since he was already on the course's page. The subject then tried clicking through some of the post filters to see if any of the posts would mention a syllabus but he did not find one that did. The subject noticed a "Resources" tab at the top and clicked on it. He scrolling down on the "Resources" page and found the course syllabus. The subject commented that he usually doesn't use Piazza to locate a course's syllabus, instead usually checking the course's BlackBoard or checking the paper syllabus that would be handed out when classes were in person.
 
 ### Task 2: Turn off emails in the  Notifications settings
 
@@ -98,7 +95,7 @@ Notes
   allowfullscreen=""
 ></iframe>
 
-Notes
+The next task was to turn off email notifications for the course. The subject made a point to notice that he finds Piazza emails annoying, and has done this task before. From the course page, he clicked on the gear icon in the top right corner and then clicked on option that said "Account/Email settings". The subject scrolled down the section entitled "Class & Email Settings" and was able to disable emails for the course.
 
 ### Task 3: Find the office hours of someone in the teaching staff
 
@@ -110,7 +107,7 @@ Notes
   allowfullscreen=""
 ></iframe>
  
- Notes
+For this task, the subject was asked to find the office hours of someone on the teaching staff. From his settings page, the subject clicked on the course dropdown at the top and then clicked on the course itself, but the page did not change. The subject tried this again but the page still did not change. After this, the subject clicked on "Resources" to go to the resources page. From here, he scrolled down and clicked on the syallbus again, and found the office hours listed there.
 
 ### Task 4: Join a group and find a post from it
 
@@ -122,16 +119,17 @@ Notes
   allowfullscreen=""
 ></iframe>
 
-Notes
+The final task was for the subject to join one of the student groups in the course. From the resources page, the subject was able to immediately notice a "Groups" tab which took him to a list of groups. The subject was told to join "Group 2". Then, the subject was asked to try and find a post within this group. The subject clicked on the "Q & A" tab at the top and then started scrolling through the posts. He found one that was marked with a "Group 2" label, and clicked on it. The subject also noted that on the post, he could click on the "Group 2" label to find more posts in the group.
 
 ## Flow Model
 
 ## Sequential Model
 
-# Ideation 
+# Ideation
 
-# Prototype 
+From this, we learned that Piazza sucks lmao
 
+# Prototype
 
 # Evaluation
 
