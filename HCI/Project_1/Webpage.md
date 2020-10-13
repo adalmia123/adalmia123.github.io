@@ -135,19 +135,27 @@ The final task was for the subject to join one of the student groups in the cour
 
 ### Task 1
 
+#### User 1
+
+#### User 2
 ![User 2 Task 1](sequential_models/User_2_Task_1.png)
 
 ### Task 2
 
+#### User 1
 ![User 1 Task 2](sequential_models/User_1_Task_2.png)
 
+#### User 2
 ![User 2 Task 2](sequential_models/User_2_Task_2.png)
 
 ### Task 3
 
 ### Task 4
+
+#### User 1
 ![User 1 Task 4](sequential_models/User_1_Task_4.png)
 
+#### User 2
 ![User 2 Task 4](sequential_models/User_2_Task_4.png)
 
 # Ideation
