@@ -146,9 +146,9 @@ The final task was for the subject to join one of the student groups in the cour
 ### Task 3
 
 ### Task 4
-![User 1 Task 4](sequential_models/Task4_user1.jpg)
+![User 1 Task 4](sequential_models/User_1_Task_4.png)
 
-![User 2 Task 4](sequential_models/Task4_user2.jpg)
+![User 2 Task 4](sequential_models/User_2_Task_4.png)
 
 # Ideation
 
