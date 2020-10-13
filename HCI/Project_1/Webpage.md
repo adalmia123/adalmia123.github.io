@@ -143,6 +143,13 @@ The final task was for the subject to join one of the student groups in the cour
 
 ![User 2 Task 2](sequential_models/User_2_Task_2.png)
 
+### Task 3
+
+### Task 4
+![User 1 Task 4](sequential_models/Task4_user1.png)
+
+![User 2 Task 4](sequential_models/Task4_user2.png)
+
 # Ideation
 
 Performing contextual inquiry with two different users allowed us to discover some flaws in Piazza's user interface. These flaws mainly had to do with Piazza's layout, organization, and navigation.
