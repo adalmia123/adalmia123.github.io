@@ -6,10 +6,10 @@ Piazza is marketed as a tool "designed to connect students, TAs, and professors 
 
 ## Target Users
 
-**Professor and CAs**
-The professors and course or teaching assistant for the specified class are able to answer students’ questions on the Piazza forum. Professors and CA’s should be able to post information about their office hours and view information about the course easily for their own knowledge and so that they can answer any questions related to the class. In terms of short term goals, they should be able to answer students’ questions quickly and efficiently. In the long term, their goals are to ensure that everyone in the class gets the help they need.
+#### **Professor and CAs**
+The professors and course/teaching assistants for a class are able to answer students’ questions on the Piazza forum. Professors and CA’s should be able to post information about their office hours and view information about the course easily for their own knowledge and so that they can answer any questions related to the class. In terms of short term goals, they should be able to answer students’ questions quickly and efficiently. In the long term, their goals are to ensure that everyone in the class gets the help they need.
 
-**Students**
+#### **Students**
 Students on Piazza are able to post questions to the entire class or privately to the instructors. They can also respond to others’ posts. In the short term, students aim to post their questions and obtain answers. In the long term, students use Piazza to have discussions with their fellow classmates and instructors. They would also use it to have easy access to course information, like the syllabus and office hour schedules.
 
 ## Key Problems with Piazza
@@ -25,7 +25,7 @@ As we mentioned, the main thing to keep in mind is efficiency as both students a
 
 # Contextual Inquiry 
 
-To gather information on the challenges users faced while using Piazza, we performed Contextual Inquiry by having two different users perform some given tasks on the site. We will analyze the actions the users took to complete the tasks to see what ways we could improve Piazza.
+To gather information on the challenges users faced while using Piazza, we performed Contextual Inquiry by having two different users perform some given tasks on the site. Our first user is someone who has had some experience being a CA for courses that use Piazza. Our second user is someone who has used Piazza for some of his classes before. We will analyze the actions the users took to complete the tasks to see what ways we could improve Piazza.
 
 ## User 1: Course Assistant
 
