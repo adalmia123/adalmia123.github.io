@@ -136,7 +136,7 @@ The final task was for the subject to join one of the student groups in the cour
 ### Task 1
 
 #### User 1
-
+![User 1 Task 1](sequential_models/User_1_Task_1.png)
 #### User 2
 ![User 2 Task 1](sequential_models/User_2_Task_1.png)
 
@@ -149,6 +149,11 @@ The final task was for the subject to join one of the student groups in the cour
 ![User 2 Task 2](sequential_models/User_2_Task_2.png)
 
 ### Task 3
+#### User 1
+![User 1 Task 3](sequential_models/User_1_Task_3.png)
+
+#### User 2
+![User 2 Task 3](sequential_models/User_2_Task_3.png)
 
 ### Task 4
 
