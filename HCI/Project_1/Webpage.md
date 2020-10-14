@@ -174,7 +174,7 @@ Some crucial aspects of Piazza are not emphasized as much as they should be. The
 The Resources page is where much of the important information pertaining to a course is located, but it is hidden behind a small tab at the top. Although Piazza, is mainly used a forum to supplement course's already existing pages, due to remote learning, students are spending more time on Piazza than before. The Resources page should be upgraded to have a bigger role on Piazza. The sub-tabs on the Resources page, "Course Information", "Staff", "Resources", and "Groups", should be more obvious to students. Our second subject chose to look at the syllabus rather than the "Staff" tab to find the professor's office hours, but had he noticed the "Staff" tab, he would have been able to stay within Piazza and the experience would be more streamlined.
 
 Overall, in its current state, Piazza's layout is unclear and unintuitive.
-![User 2 Task 4](Ideation.png)
+![Ideation](Ideation.png)
 # Prototype
 
 # Evaluation
