@@ -176,8 +176,17 @@ The Resources page is where much of the important information pertaining to a co
 Overall, in its current state, Piazza's layout is unclear and unintuitive.
 ![Ideation](Ideation.png)
 # Prototype
+Improvements We Made:
+- Made the landing page for Q&A have Course Information and Announcements and removed it from Resources
+- Added a direct link to the syllabus from the Q&A landing page for ease of access
+- Consolidated the Settings into one dropdown menu and made it easier to find
+- Removed unnecessary tabs such as Statistics and Piazza Careers
+- Added a direct link to the Groups tab, making it easier for both Students and CAs to find
+- Added a dropdown for the filters instead of having them all listed on the top and clustering the Q&A page
 
-Links to prototype:
+Link to student prototype: https://doc-0g-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/kh0n6i6mcspjkf72l4795hq1m9ks4kph/1602969525000/drive/*/ACFrOgDcLFgZoanYHW42VuziL33tIaZBAhlAKVyAiKkGbkPqwtN6Ik70gLrJRRKb0m-_WrrrrMzpnadGjlXxJj5PV4ZpRfGLm9OonucZEbivb5XgmVjPJiXm7lw-O6hTKXw1JPmhv1AOzCapq46f?print=true
+
+Link to CA prototype:https://doc-00-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/04lh4v6eh094ac966hqf3pcs8cp5910g/1602969600000/drive/*/ACFrOgAEZcq_tr-hcN5m4zIUQtYgBUtMV63cOHt_TX6nDMn1y6zk115NmQbZbH5ki8-X02gnhVg6L5ezibYe0aO7EwM-IAXf-kLyRk5eAyPJwgOtbDXY_-lYksBEVX38qYmDi-KPaIvKsd1URLQs?print=true
 
 
 # Evaluation
