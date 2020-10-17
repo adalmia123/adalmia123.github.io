@@ -184,9 +184,9 @@ Improvements We Made:
 - Added a direct link to the Groups tab, making it easier for both Students and CAs to find
 - Added a dropdown for the filters instead of having them all listed on the top and clustering the Q&A page
 
-Link to student prototype: https://doc-0g-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/kh0n6i6mcspjkf72l4795hq1m9ks4kph/1602969525000/drive/*/ACFrOgDcLFgZoanYHW42VuziL33tIaZBAhlAKVyAiKkGbkPqwtN6Ik70gLrJRRKb0m-_WrrrrMzpnadGjlXxJj5PV4ZpRfGLm9OonucZEbivb5XgmVjPJiXm7lw-O6hTKXw1JPmhv1AOzCapq46f?print=true
+{Link to student prototype}(https://doc-0g-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/kh0n6i6mcspjkf72l4795hq1m9ks4kph/1602969525000/drive/*/ACFrOgDcLFgZoanYHW42VuziL33tIaZBAhlAKVyAiKkGbkPqwtN6Ik70gLrJRRKb0m-_WrrrrMzpnadGjlXxJj5PV4ZpRfGLm9OonucZEbivb5XgmVjPJiXm7lw-O6hTKXw1JPmhv1AOzCapq46f?print=true)
 
-Link to CA prototype:https://doc-00-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/04lh4v6eh094ac966hqf3pcs8cp5910g/1602969600000/drive/*/ACFrOgAEZcq_tr-hcN5m4zIUQtYgBUtMV63cOHt_TX6nDMn1y6zk115NmQbZbH5ki8-X02gnhVg6L5ezibYe0aO7EwM-IAXf-kLyRk5eAyPJwgOtbDXY_-lYksBEVX38qYmDi-KPaIvKsd1URLQs?print=true
+{Link to CA prototype}(https://doc-00-a0-apps-viewer.googleusercontent.com/viewer/secure/pdf/3nb9bdfcv3e2h2k1cmql0ee9cvc5lole/04lh4v6eh094ac966hqf3pcs8cp5910g/1602969600000/drive/*/ACFrOgAEZcq_tr-hcN5m4zIUQtYgBUtMV63cOHt_TX6nDMn1y6zk115NmQbZbH5ki8-X02gnhVg6L5ezibYe0aO7EwM-IAXf-kLyRk5eAyPJwgOtbDXY_-lYksBEVX38qYmDi-KPaIvKsd1URLQs?print=true)
 
 
 # Evaluation
