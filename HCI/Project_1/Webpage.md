@@ -177,6 +177,9 @@ Overall, in its current state, Piazza's layout is unclear and unintuitive.
 ![Ideation](Ideation.png)
 # Prototype
 
+Links to prototype:
+
+
 # Evaluation
 
 
