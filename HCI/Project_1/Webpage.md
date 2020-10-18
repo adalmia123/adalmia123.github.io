@@ -149,6 +149,7 @@ The final task was for the subject to join one of the student groups in the cour
 ![User 2 Task 2](sequential_models/User_2_Task_2.png)
 
 ### Task 3
+
 #### User 1
 ![User 1 Task 3](sequential_models/User_1_Task_3.png)
 
@@ -175,7 +176,9 @@ The Resources page is where much of the important information pertaining to a co
 
 Overall, in its current state, Piazza's layout is unclear and unintuitive.
 ![Ideation](Ideation.png)
+
 # Prototype
+
 Improvements We Made:
 - Made the landing page for Q&A have Course Information and Announcements and removed it from Resources
 - Added a direct link to the syllabus from the Q&A landing page for ease of access
@@ -186,6 +189,24 @@ Improvements We Made:
 
 [Link to prototypes](https://drive.google.com/drive/folders/1PetF9HX765Ee_jPm-HOCTk5pM61eBsRB?usp=sharing)
 
-
 # Evaluation
 
+## User 1
+
+<iframe
+  width="960"
+  height="540"
+  src="https://drive.google.com/file/d/17UiojzkQAEcxq_JAboKbcys9dw1joD8D/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
+
+## User 2
+
+<iframe
+  width="960"
+  height="540"
+  src="https://drive.google.com/file/d/1oh0h4_W4oe4KLMy9_oYP5CsyKwPIVyd8/preview"
+  frameborder="0"
+  allowfullscreen=""
+></iframe>
