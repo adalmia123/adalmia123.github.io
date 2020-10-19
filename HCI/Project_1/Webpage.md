@@ -5,7 +5,7 @@
 Piazza is marketed as a tool "designed to connect students, TAs, and professors so every student can get the help they need when they need it". It is a website that provides a "wiki-style Q&A" where students can post questions and get answers from professors or even other students about class content and homework clarifications. In the era of remote learning, its become a one-stop hub for all question regarding a class allowing everyone to see common questions. However, currently Piazza is quite disorganized and contains many great features that are underused as they are hard to find. In this project, we explore how we can improve the user experience for Piazza.
 
 ## Target Users: User Research and Understanding
-
+After asking fellow students and CAs how they used piazza, here is what we gathered:
 #### **Professor and CAs**
 The professors and course/teaching assistants for a class are able to answer students’ questions on the Piazza forum. Professors and CA’s should be able to post information about their office hours and view information about the course easily for their own knowledge and so that they can answer any questions related to the class. In terms of short term goals, they should be able to answer students’ questions quickly and efficiently. In the long term, their goals are to ensure that everyone in the class gets the help they need.
 
