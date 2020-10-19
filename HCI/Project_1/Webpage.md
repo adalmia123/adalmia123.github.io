@@ -4,7 +4,7 @@
 
 Piazza is marketed as a tool "designed to connect students, TAs, and professors so every student can get the help they need when they need it". It is a website that provides a "wiki-style Q&A" where students can post questions and get answers from professors or even other students about class content and homework clarifications. In the era of remote learning, its become a one-stop hub for all question regarding a class allowing everyone to see common questions. However, currently Piazza is quite disorganized and contains many great features that are underused as they are hard to find. In this project, we explore how we can improve the user experience for Piazza.
 
-## Target Users
+## Target Users: User Research and Understanding
 
 #### **Professor and CAs**
 The professors and course/teaching assistants for a class are able to answer students’ questions on the Piazza forum. Professors and CA’s should be able to post information about their office hours and view information about the course easily for their own knowledge and so that they can answer any questions related to the class. In terms of short term goals, they should be able to answer students’ questions quickly and efficiently. In the long term, their goals are to ensure that everyone in the class gets the help they need.
@@ -128,11 +128,11 @@ For this task, the subject was asked to find the office hours of someone on the 
 The final task was for the subject to join one of the student groups in the course. From the resources page, the subject was able to immediately notice a "Groups" tab which took him to a list of groups. The subject was told to join "Group 2". Then, the subject was asked to try and find a post within this group. The subject clicked on the "Q & A" tab at the top and then started scrolling through the posts. He found one that was marked with a "Group 2" label, and clicked on it. The subject also noted that on the post, he could click on the "Group 2" label to find more posts in the group.
 
 ## Flow Model
-
+We created a flow model as we wanted a better understanding how professors and students interact with each other on piazza. This helped us prioritize which combined actions we wanted to focus on and helped us understand the core reasoning why the current flow was flawed.
 ![Flow Model](Flow_Model.png)
 
 ## Sequential Model
-
+We created sequential models as we wanted to break down of how our usewrs did on our tasks and see where there is need for improvement. Also overall it helped us count how many steps did it take our users to do these tasks.
 ### Task 1
 
 #### User 1
