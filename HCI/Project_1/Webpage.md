@@ -128,11 +128,11 @@ For this task, the subject was asked to find the office hours of someone on the 
 The final task was for the subject to join one of the student groups in the course. From the resources page, the subject was able to immediately notice a "Groups" tab which took him to a list of groups. The subject was told to join "Group 2". Then, the subject was asked to try and find a post within this group. The subject clicked on the "Q & A" tab at the top and then started scrolling through the posts. He found one that was marked with a "Group 2" label, and clicked on it. The subject also noted that on the post, he could click on the "Group 2" label to find more posts in the group.
 
 ## Flow Model
-We created a flow model as we wanted a better understanding how professors and students interact with each other on piazza. This helped us prioritize which combined actions we wanted to focus on and helped us understand the core reasoning why the current flow was flawed.
+We created a flow model as we wanted a better understanding of how professors and students interact with each other on piazza. This helped us prioritize which combined actions we wanted to focus on and helped us understand the core reasoning for why the current flow was flawed.
 ![Flow Model](Flow_Model.png)
 
 ## Sequential Model
-We created sequential models as we wanted to break down of how our usewrs did on our tasks and see where there is need for improvement. Also overall it helped us count how many steps did it take our users to do these tasks.
+We created sequential models as we wanted to break down how our users did our tasks and see where there is need for improvement. Overall it helped us to assess how many steps our users took to complete these tasks.
 ### Task 1
 
 #### User 1
